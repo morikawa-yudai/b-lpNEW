@@ -1,0 +1,12 @@
+/*
+Theme Name: B. Service LP
+Theme URI: https://example.com/
+Author: B. Inc.
+Description: 株式会社B. サービス一覧LP用オリジナルテーマ。ACF対応／導入実績・お客様の声CMS／GSAPスクロール演出。
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 8.0
+Text Domain: b-dot
+*/
+
+/* 実スタイルは assets/css/main.css に分離してあります（functions.php で読み込み） */
